@@ -1,6 +1,6 @@
 # Project - Read Me
 ---
-Django Starter Project
+About Project
 
 ### **Application Requirements**
 * Python 3.7.0
@@ -42,8 +42,5 @@ Django Starter Project
 2. Make sure `DJANGO_SETTINGS_MODULE` to `project.settings.prod` in `.env`
 3. Make a pre-deployment test `python manage.py check --deploy`
 4. Make sure that all static files are generated using `python manage.py collectstatic`
-5. Finally start the server
 
 ---
-#### For Any Queries Contact
-**Javed Ahamad**
